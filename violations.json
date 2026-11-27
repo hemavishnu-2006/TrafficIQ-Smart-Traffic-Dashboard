@@ -1,0 +1,462 @@
+[
+  {
+    "id": "TV-23177",
+    "plate": "AP 16 IZ 9663",
+    "type": "Triple Riding",
+    "location": "Eluru Road",
+    "time": "16:10:38",
+    "severity": "High",
+    "camera": "CAM-16",
+    "status": "Pending"
+  },
+  {
+    "id": "TV-99780",
+    "plate": "AP 16 DR 9453",
+    "type": "No Seatbelt",
+    "location": "Ramavarappadu",
+    "time": "16:09:35",
+    "severity": "Medium",
+    "camera": "CAM-02",
+    "status": "Pending"
+  },
+  {
+    "id": "TV-20828",
+    "plate": "AP 16 HB 7091",
+    "type": "Wrong Parking",
+    "location": "Benz Circle",
+    "time": "16:08:35",
+    "severity": "Critical",
+    "camera": "CAM-18",
+    "status": "Pending"
+  },
+  {
+    "id": "TV-41825",
+    "plate": "AP 16 IS 6833",
+    "type": "Wrong Parking",
+    "location": "Governor Peta",
+    "time": "16:07:35",
+    "severity": "Critical",
+    "camera": "CAM-05",
+    "status": "Pending"
+  },
+  {
+    "id": "TV-11267",
+    "plate": "AP 39 KG 5665",
+    "type": "Wrong Parking",
+    "location": "Ramavarappadu",
+    "time": "16:06:35",
+    "severity": "High",
+    "camera": "CAM-17",
+    "status": "Pending"
+  },
+  {
+    "id": "TV-97284",
+    "plate": "AP 39 VM 8986",
+    "type": "Wrong Parking",
+    "location": "Ramavarappadu",
+    "time": "16:05:35",
+    "severity": "Medium",
+    "camera": "CAM-08",
+    "status": "Pending"
+  },
+  {
+    "id": "TV-24627",
+    "plate": "TS 09 CS 4519",
+    "type": "Signal Jump",
+    "location": "Kanuru Main Road",
+    "time": "16:04:35",
+    "severity": "High",
+    "camera": "CAM-15",
+    "status": "Pending"
+  },
+  {
+    "id": "TV-26563",
+    "plate": "TS 09 GU 8178",
+    "type": "Triple Riding",
+    "location": "Kanuru Main Road",
+    "time": "16:03:35",
+    "severity": "High",
+    "camera": "CAM-06",
+    "status": "Pending"
+  },
+  {
+    "id": "TV-25481",
+    "plate": "AP 39 QQ 3932",
+    "type": "Wrong Parking",
+    "location": "Eluru Road",
+    "time": "16:02:35",
+    "severity": "High",
+    "camera": "CAM-05",
+    "status": "Pending"
+  },
+  {
+    "id": "TV-92094",
+    "plate": "TS 09 LP 5372",
+    "type": "Wrong Parking",
+    "location": "MG Road Junction",
+    "time": "16:01:35",
+    "severity": "High",
+    "camera": "CAM-15",
+    "status": "Pending"
+  },
+  {
+    "id": "TV-17826",
+    "plate": "AP 07 QL 8756",
+    "type": "Signal Jump",
+    "location": "Ramavarappadu",
+    "time": "16:00:35",
+    "severity": "High",
+    "camera": "CAM-07",
+    "status": "Pending"
+  },
+  {
+    "id": "TV-28452",
+    "plate": "AP 39 QO 8529",
+    "type": "Signal Jump",
+    "location": "Benz Circle",
+    "time": "15:59:35",
+    "severity": "High",
+    "camera": "CAM-01",
+    "status": "Pending"
+  },
+  {
+    "id": "TV-11514",
+    "plate": "AP 16 XO 7577",
+    "type": "No Seatbelt",
+    "location": "MG Road Junction",
+    "time": "15:58:35",
+    "severity": "Critical",
+    "camera": "CAM-17",
+    "status": "Pending"
+  },
+  {
+    "id": "TV-91290",
+    "plate": "AP 39 EW 5446",
+    "type": "Overspeeding",
+    "location": "Ramavarappadu",
+    "time": "15:57:35",
+    "severity": "Critical",
+    "camera": "CAM-04",
+    "status": "Pending"
+  },
+  {
+    "id": "TV-61866",
+    "plate": "TS 09 SA 1540",
+    "type": "Wrong Parking",
+    "location": "Ramavarappadu",
+    "time": "15:56:35",
+    "severity": "Critical",
+    "camera": "CAM-17",
+    "status": "Pending"
+  },
+  {
+    "id": "TV-66731",
+    "plate": "AP 39 TQ 3606",
+    "type": "Signal Jump",
+    "location": "Kanuru Main Road",
+    "time": "15:55:35",
+    "severity": "High",
+    "camera": "CAM-08",
+    "status": "Pending"
+  },
+  {
+    "id": "TV-99626",
+    "plate": "AP 16 EV 8903",
+    "type": "No Helmet",
+    "location": "Ramavarappadu",
+    "time": "15:55:11",
+    "severity": "Medium",
+    "camera": "CAM-09",
+    "status": "Pending"
+  },
+  {
+    "id": "TV-29460",
+    "plate": "AP 07 BR 3177",
+    "type": "Signal Jump",
+    "location": "Eluru Road",
+    "time": "15:52:40",
+    "severity": "Critical",
+    "camera": "CAM-16",
+    "status": "Pending"
+  },
+  {
+    "id": "TV-46931",
+    "plate": "TS 09 XS 5010",
+    "type": "No Seatbelt",
+    "location": "Governor Peta",
+    "time": "15:51:40",
+    "severity": "High",
+    "camera": "CAM-03",
+    "status": "Pending"
+  },
+  {
+    "id": "TV-81085",
+    "plate": "AP 16 JS 6591",
+    "type": "Triple Riding",
+    "location": "Eluru Road",
+    "time": "15:50:40",
+    "severity": "Critical",
+    "camera": "CAM-02",
+    "status": "Pending"
+  },
+  {
+    "id": "TV-34415",
+    "plate": "AP 07 DZ 8452",
+    "type": "No Seatbelt",
+    "location": "MG Road Junction",
+    "time": "15:49:40",
+    "severity": "Critical",
+    "camera": "CAM-02",
+    "status": "Pending"
+  },
+  {
+    "id": "TV-36700",
+    "plate": "TS 09 UW 6370",
+    "type": "Triple Riding",
+    "location": "Kanuru Main Road",
+    "time": "15:48:40",
+    "severity": "High",
+    "camera": "CAM-07",
+    "status": "Pending"
+  },
+  {
+    "id": "TV-20059",
+    "plate": "AP 39 SD 6904",
+    "type": "No Seatbelt",
+    "location": "Eluru Road",
+    "time": "15:47:40",
+    "severity": "Medium",
+    "camera": "CAM-02",
+    "status": "Pending"
+  },
+  {
+    "id": "TV-84356",
+    "plate": "AP 39 SX 8900",
+    "type": "Wrong Parking",
+    "location": "MG Road Junction",
+    "time": "15:46:40",
+    "severity": "High",
+    "camera": "CAM-16",
+    "status": "Pending"
+  },
+  {
+    "id": "TV-78094",
+    "plate": "AP 07 XK 1062",
+    "type": "No Seatbelt",
+    "location": "Ramavarappadu",
+    "time": "15:45:40",
+    "severity": "High",
+    "camera": "CAM-14",
+    "status": "Pending"
+  },
+  {
+    "id": "TV-57702",
+    "plate": "AP 07 CF 9552",
+    "type": "Triple Riding",
+    "location": "Benz Circle",
+    "time": "15:44:40",
+    "severity": "High",
+    "camera": "CAM-01",
+    "status": "Pending"
+  },
+  {
+    "id": "TV-60685",
+    "plate": "TS 09 CK 8766",
+    "type": "Overspeeding",
+    "location": "Eluru Road",
+    "time": "15:43:40",
+    "severity": "Medium",
+    "camera": "CAM-09",
+    "status": "Pending"
+  },
+  {
+    "id": "TV-56584",
+    "plate": "AP 07 CV 6018",
+    "type": "Wrong Parking",
+    "location": "Ramavarappadu",
+    "time": "15:42:40",
+    "severity": "High",
+    "camera": "CAM-18",
+    "status": "Pending"
+  },
+  {
+    "id": "TV-16628",
+    "plate": "AP 16 DT 6110",
+    "type": "No Seatbelt",
+    "location": "Eluru Road",
+    "time": "15:41:40",
+    "severity": "Critical",
+    "camera": "CAM-04",
+    "status": "Pending"
+  },
+  {
+    "id": "TV-92601",
+    "plate": "AP 39 WK 1835",
+    "type": "Wrong Parking",
+    "location": "Governor Peta",
+    "time": "15:40:54",
+    "severity": "Critical",
+    "camera": "CAM-06",
+    "status": "Pending"
+  },
+  {
+    "id": "TV-35627",
+    "plate": "AP 39 IT 8433",
+    "type": "Triple Riding",
+    "location": "Governor Peta",
+    "time": "15:40:43",
+    "severity": "High",
+    "camera": "CAM-16",
+    "status": "Pending"
+  },
+  {
+    "id": "TV-20900",
+    "plate": "TS 09 NP 7625",
+    "type": "Signal Jump",
+    "location": "Kanuru Main Road",
+    "time": "15:40:32",
+    "severity": "Medium",
+    "camera": "CAM-15",
+    "status": "Pending"
+  },
+  {
+    "id": "TV-68623",
+    "plate": "AP 39 EU 2243",
+    "type": "No Helmet",
+    "location": "Eluru Road",
+    "time": "15:40:21",
+    "severity": "Medium",
+    "camera": "CAM-10",
+    "status": "Pending"
+  },
+  {
+    "id": "TV-30738",
+    "plate": "AP 39 DI 1273",
+    "type": "Wrong Parking",
+    "location": "MG Road Junction",
+    "time": "15:40:10",
+    "severity": "Critical",
+    "camera": "CAM-05",
+    "status": "Pending"
+  },
+  {
+    "id": "TV-32487",
+    "plate": "AP 16 RG 4771",
+    "type": "Triple Riding",
+    "location": "Eluru Road",
+    "time": "15:39:59",
+    "severity": "Critical",
+    "camera": "CAM-08",
+    "status": "Pending"
+  },
+  {
+    "id": "TV-33940",
+    "plate": "AP 39 OS 1946",
+    "type": "No Seatbelt",
+    "location": "Eluru Road",
+    "time": "15:39:48",
+    "severity": "High",
+    "camera": "CAM-13",
+    "status": "Pending"
+  },
+  {
+    "id": "TV-96141",
+    "plate": "TS 09 ZX 5240",
+    "type": "No Helmet",
+    "location": "Kanuru Main Road",
+    "time": "15:39:37",
+    "severity": "High",
+    "camera": "CAM-08",
+    "status": "Pending"
+  },
+  {
+    "id": "TV-82219",
+    "plate": "TS 09 XL 9394",
+    "type": "No Seatbelt",
+    "location": "Governor Peta",
+    "time": "15:39:25",
+    "severity": "Critical",
+    "camera": "CAM-07",
+    "status": "Pending"
+  },
+  {
+    "id": "TV-80081",
+    "plate": "AP 16 ER 9728",
+    "type": "Overspeeding",
+    "location": "Benz Circle",
+    "time": "15:39:14",
+    "severity": "Medium",
+    "camera": "CAM-12",
+    "status": "Pending"
+  },
+  {
+    "id": "TV-24081",
+    "plate": "AP 16 DK 4821",
+    "type": "No Helmet",
+    "location": "Benz Circle",
+    "time": "10:42:18",
+    "status": "Pending",
+    "severity": "High",
+    "camera": "CAM-04"
+  },
+  {
+    "id": "TV-24080",
+    "plate": "AP 07 CX 9032",
+    "type": "Signal Jump",
+    "location": "MG Road Junction",
+    "time": "10:40:52",
+    "status": "Verified",
+    "severity": "Critical",
+    "camera": "CAM-02"
+  },
+  {
+    "id": "TV-24079",
+    "plate": "TS 09 EF 1188",
+    "type": "Wrong Parking",
+    "location": "Governor Peta",
+    "time": "10:37:09",
+    "status": "Pending",
+    "severity": "Medium",
+    "camera": "CAM-11"
+  },
+  {
+    "id": "TV-24078",
+    "plate": "AP 16 BN 7710",
+    "type": "Triple Riding",
+    "location": "Ramavarappadu",
+    "time": "10:33:41",
+    "status": "Challan Issued",
+    "severity": "High",
+    "camera": "CAM-07"
+  },
+  {
+    "id": "TV-24077",
+    "plate": "AP 39 GH 5504",
+    "type": "No Seatbelt",
+    "location": "Eluru Road",
+    "time": "10:29:06",
+    "status": "Verified",
+    "severity": "Medium",
+    "camera": "CAM-09"
+  },
+  {
+    "id": "TV-24076",
+    "plate": "AP 16 QZ 2401",
+    "type": "Overspeeding",
+    "location": "Kanuru Main Road",
+    "time": "10:24:33",
+    "status": "Pending",
+    "severity": "Critical",
+    "camera": "CAM-15"
+  },
+  {
+    "id": "TV-24075",
+    "plate": "AP 16 AB 6219",
+    "type": "No Helmet",
+    "location": "Benz Circle",
+    "time": "10:19:20",
+    "status": "Challan Issued",
+    "severity": "High",
+    "camera": "CAM-04"
+  }
+]
